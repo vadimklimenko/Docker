@@ -17,7 +17,8 @@ link https://github.com/vadimklimenko/Docker
 Описание файлов:
 
 - docker-compose.yml
-Используем версию 3
+Используем версию 3.
+
 В сервисах веб используем наш build, который собран в Dockerfile
 Прописывем порты для работы
 Монтируем файлы nginx.conf для настроек nginx и targets.json в директорию необходимую по задаче (/var/http)
