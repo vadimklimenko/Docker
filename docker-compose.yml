@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    ports:
+     - "8080:80"
+    volumes:
+     - ./nginx.conf:/etc/nginx/nginx.conf
+     - ./targets.json:/var/http/targets.json

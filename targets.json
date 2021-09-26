@@ -1,0 +1,22 @@
+{
+  "squadName": "KLM SAY",
+  "home": "UA",
+  "formed": 2021,
+  "secretBase": "KINOMAN",
+  "active": true,
+  "members": [
+    {
+      "name": "Vadim Klimenko",
+      "secretIdentity": "Anton Teston",
+      "power": [
+        "Super Intellect"
+      ]
+    },
+    {
+      "name": "Yaroslav Isaenko",
+      "secretIdentity": "Tom Hanks",
+      "power": [
+        "Super Intellect"
+      ]
+    }
+}
